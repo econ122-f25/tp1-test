@@ -111,6 +111,8 @@ To get started, consider these questions:
 
 - What is the overall trend of air quality in the city over time?
 
+- Are the time periods consistent across each data set?
+
 - What is the connection between air quality and the other variables on
   the data set?
 
@@ -122,3 +124,4 @@ To get started, consider these questions:
 
 Good luck, and remember: The data is out there, waiting to tell its
 story! 🔍
+
